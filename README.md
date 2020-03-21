@@ -26,7 +26,7 @@
   - Highlights: Italian Physician Dr. Giovanni Guaraldi Reports on Lessons Learned and Advice for Physicians
   - Links: https://www.youtube.com/watch?v=wohTFdqCurA
   
-### Grand Rounds Presentations
+### Grand Rounds Presentations (US Medical Schools)
 
 - Coronavirus (COVID-19) Grand Rounds - Stanford Department of Medicine
   - Source: Stanford Department of Medicine Mar 18, 2020
