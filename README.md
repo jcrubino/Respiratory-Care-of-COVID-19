@@ -46,7 +46,7 @@
   - Highlights: Webinar for Respiratory Therapists by Public Health and Pediatric ICU Physician
   - Link: https://www.youtube.com/watch?v=qW4vrz79aFs
   
--  Respiratory management of COVID-19 patients
+- Respiratory management of COVID-19 patients
   - Physiopedia (Online Medical Professional Education Vendor)
   - Highlights: UK Respiratory Physiotherapist Webinar
   - Link: https://www.youtube.com/watch?v=YoAbjLQlDy8
