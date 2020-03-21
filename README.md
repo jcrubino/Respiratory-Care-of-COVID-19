@@ -77,7 +77,7 @@
   
 - COVID-19 Case As Described By Doctors In China
   - Source: Chubbyemu (Medical Video Content Creator)
-  - Highlights: Patient Case Reports
+  - Highlights: Patient Case Report
   - Link: youtube.com/watch?v=Q0A0LyMru3I
 
 ### Allied Health Webinars
