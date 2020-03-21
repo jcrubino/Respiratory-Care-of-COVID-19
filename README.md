@@ -1,6 +1,6 @@
 
 ## Note
-*The sources of these videos are not vetted as being the gold standard in medical advice and should only be assessed by and with license practicing physicians and health care providers.  Many are presentations by domain experts and online content creators attempting to provide the best information available at the time the online content was published.*
+*The sources of these videos are not vetted as being the gold standard in medical advice and should only be assessed by and with license practicing physicians and health care providers.  The presentations listed are often made by online content creators attempting to provide the best information available to them at the time the online content was published.*
 
 ## YouTube Webinars
 
