@@ -7,9 +7,9 @@
 
 ### [Guidelines for Environmental Infection Control in Health-Care Facilities](https://www.cdc.gov/infectioncontrol/guidelines/environmental/index.html)
 
-### [Lancet March 20, 2020: Treatment for severe acute respiratory distress syndrome from COVID-19](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30127-2/fulltext)
+### [Lancet: Treatment for severe acute respiratory distress syndrome from COVID-19](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30127-2/fulltext)
 
-### [Lancet: March 20, 200: Planning and provision of ECMO services for severe ARDS during the COVID-19 pandemic and other outbreaks of emerging infectious diseases](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30121-1/fulltext)
+### [Lancet: Planning and provision of ECMO services for severe ARDS during the COVID-19 pandemic and other outbreaks of emerging infectious diseases](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30121-1/fulltext)
 
 
 ### Front Line Physician Reports (China, Italy)
