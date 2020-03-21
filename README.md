@@ -3,13 +3,14 @@
 *Most of Given the nature of the Corona Virus COVID 19 pandemic the sources and resources of these videos are not strictly vetted nor being reccomended as medical advice, or gold standard guidelines.  These resources should only be assessed by and with certified licensed practicing physicians and health care providers.  Primary source (front line physicians and health care professionals) reports and presentations from established medical organizations are provided when possible.  Some presentations are made by online content creators attempting to provide the best quality information available to their own understanding at the time their online their content was published.*
 
 
-### [Official CDC Healthcare Professional FAQ](https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html)
+### CDC Guides for HealthCare Professionals
+  - [Healthcare Professional FAQ](https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html)
 
-### [Guidelines for Environmental Infection Control in Health-Care Facilities](https://www.cdc.gov/infectioncontrol/guidelines/environmental/index.html)
+### [Environmental Infection Control in Health-Care Facilities](https://www.cdc.gov/infectioncontrol/guidelines/environmental/index.html)
 
-### [Lancet: Treatment for severe acute respiratory distress syndrome from COVID-19](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30127-2/fulltext)
-
-### [Lancet: Planning and provision of ECMO services for severe ARDS during the COVID-19 pandemic and other outbreaks of emerging infectious diseases](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30121-1/fulltext)
+### Lancet Jounral Updates for Respiratory Medicine and COVID-19
+ - [Treatment for severe acute respiratory distress syndrome from COVID-19](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30127-2/fulltext)
+ - [Planning and provision of ECMO services for severe ARDS during the COVID-19 pandemic and other outbreaks of emerging infectious diseases](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30121-1/fulltext)
 
 
 ### Front Line Physician Reports (China, Italy)
