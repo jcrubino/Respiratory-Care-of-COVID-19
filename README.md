@@ -33,6 +33,13 @@
   - Highlights: Basic Vent Settings
   - Link: https://www.youtube.com/watch?v=kuTqecGcwTw
   
+### ER Airway Preparedness
+
+ - COVID19 (Corona Virus) Intubation Packs and Preoxygenation
+   - Source EMCrit (ER Physician Scott Wiengart)
+   - Highlights: Long Estbalished Podcaster on Emergency Medicine 
+   - Link: https://www.youtube.com/watch?v=C78VTEAHhWU
+   
 ### Grand Rounds Presentations (US Medical Schools)
 
 - Coronavirus (COVID-19) Grand Rounds - Stanford Department of Medicine
