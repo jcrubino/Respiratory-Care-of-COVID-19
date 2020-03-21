@@ -17,6 +17,11 @@
   - Highlights:  Dr. Li Shengqing of Fudan Univerity with experience in Wuhan China ICU QnA
   - Keywords: Mechanical Ventilation, ECMO, Face Mask Debate, N95
   - Links: https://www.youtube.com/watch?v=pRSKoROAquY
+  
+- Italian Doctor on treating COVID-19 patients
+  - Source: CTV News (Canada)
+  - Highlights: Italian Physician Dr. Giovanni Guaraldi Reports on Lessons Learned and Advice for Physicians
+  - Links: https://www.youtube.com/watch?v=wohTFdqCurA
     
 ### Disease Pathology And Epidemiology
 
