@@ -7,6 +7,8 @@
 
 ### [Guidelines for Environmental Infection Control in Health-Care Facilities](https://www.cdc.gov/infectioncontrol/guidelines/environmental/index.html)
 
+### [Lancet March 20, 2020 Update: Treatment for severe acute respiratory distress syndrome from COVID-19](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30127-2/fulltext?utm_campaign=tlcoronavirus20&utm_source=twitter&utm_medium=social)
+
 
 ### Front Line Physician Reports (China, Italy)
 - Respiratory Management for Severe COVID-19 Patients Webinar (Part I)
