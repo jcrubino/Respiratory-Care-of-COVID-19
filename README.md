@@ -10,11 +10,8 @@
       
 - Chinese frontline respiratory doctor shares COVID-19 experience with overseas medics
   - Source: China Global Television Network
-  - Highlights:  International Physicians and Expert Online Seminar
-    - Dr. Li Shengqing of Fudan Univerity Case Reports from Wuhan China ICU
-    - Dr. Samrat Shah of Mediheal Hospital Nairobi
-    - Daniel R. Luce George Town University
-  - Keywords: Mechanical Ventilation, ECMO, Face Mask Debate, N95
+  - Highlights:  Dr. Li Shengqing of Fudan Univerity with experience in Wuhan China ICU QnA
+  - Keywords: Mechanical Ventilation, ECMO, Face Mask Debate, N95, Disposable Mask Environmental Impact
   - Links: https://www.youtube.com/watch?v=pRSKoROAquY
   
 - COVID-19 and the RT with Dr. Michael Anderson, MD, MBA, FAAP, FAARC
