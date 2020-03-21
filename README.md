@@ -18,7 +18,7 @@
 
 - COVID-19 | Corona Virus: Epidemiology, Pathophysiology, Diagnostics
 - Source: Ninja Nerd Science
-- Highlights: History and Evolution of SARS/Corona Virus mutations
+- Highlights: Zoonosis, Mortality Rates
 - Link: https://www.youtube.com/watch?v=PWzbArPgo-o 
 
 ### Allied Health Webinars
