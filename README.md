@@ -11,7 +11,7 @@
 - Chinese frontline respiratory doctor shares COVID-19 experience with overseas medics
   - Source: China Global Television Network
   - Highlights:  Dr. Li Shengqing of Fudan Univerity with experience in Wuhan China ICU QnA
-  - Keywords: Mechanical Ventilation, ECMO, Face Mask Debate, N95, Disposable Mask Environmental Impact
+  - Keywords: Mechanical Ventilation, ECMO, Face Mask Debate, N95
   - Links: https://www.youtube.com/watch?v=pRSKoROAquY
     
 ### Disease Pathology And Epidemiology
