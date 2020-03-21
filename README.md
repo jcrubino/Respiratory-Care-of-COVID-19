@@ -1,6 +1,6 @@
-### YouTube Webinars
+## YouTube Webinars
 
-
+### Primary Source Physician Case Reports
 - Respiratory Management for Severe COVID-19 Patients Webinar 
   - Source: Philips Healthcare
   - Highlights:  Medical Professionals from China and Italy on Respiratory Care of COVID-19 Patients
@@ -13,7 +13,16 @@
   - Highlights:  Dr. Li Shengqing of Fudan Univerity with experience in Wuhan China ICU QnA
   - Keywords: Mechanical Ventilation, ECMO, Face Mask Debate, N95, Disposable Mask Environmental Impact
   - Links: https://www.youtube.com/watch?v=pRSKoROAquY
-  
+    
+### Disease Pathology And Epidemiology
+
+- COVID-19 | Corona Virus: Epidemiology, Pathophysiology, Diagnostics
+- Source: Ninja Nerd Science
+- Highlights: History and Evolution of SARS/Corona Virus mutations
+- Link: https://www.youtube.com/watch?v=PWzbArPgo-o 
+
+### Allied Health Webinars
+
 - COVID-19 and the RT with Dr. Michael Anderson, MD, MBA, FAAP, FAARC
   - Source: American Association of Respiratory Care (AARC)
   - Highlights: Webinar for Respiratory Therapists by Public Health and Pediatric ICU Physician
