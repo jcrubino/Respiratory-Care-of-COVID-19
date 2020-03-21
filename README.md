@@ -43,7 +43,7 @@
   
 - NiV-Helmet
   - Source: Neurovent Research Inc.
-  - Highlights: NIV Helmet Presentation from 2012
+  - Highlights: NIV Helmet Presentation from 2012.  Good respiratory presentation on characteristics of the NIV Helmet
   - Link: https://www.youtube.com/watch?v=XjKrXG4FwRI
   
 ### ER Airway Preparedness
