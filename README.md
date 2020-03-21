@@ -26,6 +26,14 @@
   - Highlights: Italian Physician Dr. Giovanni Guaraldi Reports on Lessons Learned and Advice for Physicians
   - Links: https://www.youtube.com/watch?v=wohTFdqCurA
   
+  
+### Medical Screening
+
+- Learning about INVESTIGATIONS from Respiratory Consultant
+  - Source: Dr Hope's Sick Notes (Emergency Medicine Doctor and Teaching Fellow in the UK)
+  - Highlights: General Medical History Intake by Dr. awaiting for the UK COVID-19 Wave to Peak.
+  - Link: https://www.youtube.com/watch?v=zf7jW2ck7AI
+  
 ### NIV Helmet Ventilation
 
 - Helmet Noninvasive Ventilation
