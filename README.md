@@ -29,6 +29,11 @@
   - Source: Doctor Mike Hansen (Certified Internist, Pulmonologist)
   - Highlights: Pathology Case Reports from Current Journal Reports
   - Link: https://www.youtube.com/watch?v=V-7SQGPkijs
+  
+- COVID-19 can kill: a lung pathologist explains what ARDS means and why it's important
+  - Sanjay Mukhopadhyay (Pulmonary Pathologist)
+  - Highlights: COVID-19, ARDS & Lung Cell Pathology
+  - Link: https://www.youtube.com/watch?v=vPtH42Lnt_Y
 
 - COVID-19 | Corona Virus: Epidemiology, Pathophysiology, Diagnostics
   - Source: Ninja Nerd Science (Science Video Creator)
