@@ -51,6 +51,12 @@
 
 ### Disease Pathology And Epidemiology
 
+- How Coronavirus Kills: Acute Respiratory Distress Syndrome (ARDS) & Treatment
+  - MedCram - Medical Lectures Explained CLEARLY
+  - Highlights: ARDS Pathology Visually
+  - Link: https://www.youtube.com/watch?v=okg7uq_HrhQ
+
+
 - Coronavirus Testing #JAMALive
   - Source: JAMA® Network (Public Health and Health Care Edu. Video Channel)
   - Highlights: COVID-19 Testing Explained
