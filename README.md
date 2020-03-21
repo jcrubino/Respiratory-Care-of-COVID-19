@@ -5,6 +5,9 @@
 
 ### [Official CDC Healthcare Professional FAQ](https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html)
 
+### [Guidelines for Environmental Infection Control in Health-Care Facilities](https://www.cdc.gov/infectioncontrol/guidelines/environmental/index.html)
+
+
 ### Front Line Physician Reports (China, Italy)
 - Respiratory Management for Severe COVID-19 Patients Webinar (Part I)
   - Source: Philips Healthcare
