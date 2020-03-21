@@ -1,1 +1,1 @@
-I am a former registered respiratory therapist with experience in Level I NICU, Level III Trauma, Internation ICU Transport,  now working in software development interested in helping with the US response to containing the COVID-19 pandemic. 
+I am a former registered respiratory therapist with experience in Level III NICU & International ECMO transport (USAF), Level I Trauma (University Hospital Las Vegas, San Antonio),  now working in software development interested in helping with the US response to containing the COVID-19 pandemic. 
