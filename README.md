@@ -1,6 +1,6 @@
 
 ## Note
-*The sources of these videos are not strictly vetted as being a "gold standard" in medical guide lines and should only be assessed by and with certified licensed practicing physicians and health care providers.  Well established and primary source (front line physicians and health care professionals) reports are provided when possible.  Some presentations are made by online content creators attempting to provide the best quality information available to them at the time the online their content was published.*
+*The sources of these videos are not strictly vetted as being a "gold standard" in medical guide lines and should only be assessed by and with certified licensed practicing physicians and health care providers.  Well established and primary source (front line physicians and health care professionals) reports are provided when possible.  Some presentations are made by online content creators attempting to provide the best quality information available to them at the time their online their content was published.*
 
 ## YouTube Webinars
 
