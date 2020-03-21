@@ -5,8 +5,7 @@
 
 ### CDC Guides for HealthCare Professionals
   - [Healthcare Professional FAQ](https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html)
-
-### [Environmental Infection Control in Health-Care Facilities](https://www.cdc.gov/infectioncontrol/guidelines/environmental/index.html)
+  - [Environmental Infection Control in Health-Care Facilities](https://www.cdc.gov/infectioncontrol/guidelines/environmental/index.html)
 
 ### Lancet Jounral Updates for Respiratory Medicine and COVID-19
  - [Treatment for severe acute respiratory distress syndrome from COVID-19](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30127-2/fulltext)
