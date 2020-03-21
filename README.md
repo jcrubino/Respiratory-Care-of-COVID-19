@@ -29,6 +29,11 @@
   - Source: Icahn School of Medicine
   - Highlights: Grand Rounds Primer for Health Care Providers
   - Link: https://www.youtube.com/watch?v=31Ht70R_Gbs
+  
+- Coronavirus Testing #JAMALive
+  - Source: JAMA® Network (Public Health and Health Care Edu. Video Channel)
+  - Highlights: COVID-19 Testing Explained
+  - Link: https://www.youtube.com/watch?v=oGiOi7eV05g
 
 - Coronavirus (COVID-19) Autopsy Report Analysis by Dr. Mike Hansen
   - Source: Doctor Mike Hansen (Certified Internist, Pulmonologist)
