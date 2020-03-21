@@ -46,6 +46,12 @@
   - Highlights: Basic Vent Settings
   - Link: https://www.youtube.com/watch?v=kuTqecGcwTw
   
+- Optimizing NIV Non Invasive Ventilation by the Use of Helmets
+  - Source: Dr. Roberta Costa - Catholic Univerity of Rome 2011
+  - Highlights: The NIV Helmet is an Italian (re)Invention.  
+    - This presentation is an early report on using NIV Helmets for respiratory support
+  - Link: https://www.youtube.com/watch?v=9oXM2qaatoY (Posted on a Russian Youtubers Channel)
+  
 - NiV-Helmet
   - Source: Neurovent Research Inc.
   - Highlights: NIV Helmet Presentation from 2012.  Good respiratory presentation on characteristics of the NIV Helmet
