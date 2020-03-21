@@ -19,7 +19,11 @@
 - COVID-19 | Corona Virus: Epidemiology, Pathophysiology, Diagnostics
   - Source: Ninja Nerd Science
   - Highlights: Zoonosis, Mortality Rates, Degree of Spread
-  - Link: https://www.youtube.com/watch?v=PWzbArPgo-o 
+  - Link: https://www.youtube.com/watch?v=PWzbArPgo-o
+  
+- COVID-19 | Corona Virus: Treatment, Prognosis, Precautions
+  - Source: Ninja Nerd Science
+  - Link: https://www.youtube.com/watch?v=rdoN_XsHWBI
 
 ### Allied Health Webinars
 
