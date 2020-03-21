@@ -1,8 +1,7 @@
 
 ## Note
-*Given the nature of the Corona Virus COVID 19 pandemic the sources and resources of these videos are not strictly vetted nor being reccomended as medical advice, or gold standard guidelines.  These resources should only be assessed by and with certified licensed practicing physicians and health care providers.  Primary source (front line physicians and health care professionals) reports and presentations from established medical organizations are provided when possible.  Some presentations are made by online content creators attempting to provide the best quality information available to their own understanding at the time their online their content was published.*
+*Most of Given the nature of the Corona Virus COVID 19 pandemic the sources and resources of these videos are not strictly vetted nor being reccomended as medical advice, or gold standard guidelines.  These resources should only be assessed by and with certified licensed practicing physicians and health care providers.  Primary source (front line physicians and health care professionals) reports and presentations from established medical organizations are provided when possible.  Some presentations are made by online content creators attempting to provide the best quality information available to their own understanding at the time their online their content was published.*
 
-## YouTube Webinars
 
 ### Front Line Physician Reports (China, Italy)
 - Respiratory Management for Severe COVID-19 Patients Webinar (Part I)
@@ -42,6 +41,16 @@
 ### NIV Helmet Ventilation
 
 *NIV Helmet Ventilation has been cited as early as 2016 for reducing ARDS intubations. Being an Italian medical (re)Invention is very likely why Italian hostpital footage shows these type of NIV systems on patients in the wards.*
+
+- Effect of Noninvasive Ventilation Delivered by Helmet vs Face Mask on the Rate of Endotracheal Intubation in Patients With Acute Respiratory Distress Syndrome
+  - Source: JAMA. 2016 Jun 14; 315(22): 2435–2441.
+  - Highlight: Randomized Trial
+  - Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4967560/
+  
+- Clinical review: Helmet and Non-Invasive Mechanical Ventilation in Critically Ill Patients
+  - Source: Biomed Central (Open Access Medical Journal)
+  - Highlight: Early 2013 Review of NIV Helmet Ventilation
+  - Link: https://ccforum.biomedcentral.com/articles/10.1186/cc11875
 
 - Helmet Noninvasive Ventilation
   - Source: JAMA Network Channel
