@@ -17,9 +17,9 @@
 ### Disease Pathology And Epidemiology
 
 - COVID-19 | Corona Virus: Epidemiology, Pathophysiology, Diagnostics
-- Source: Ninja Nerd Science
-- Highlights: Zoonosis, Mortality Rates
-- Link: https://www.youtube.com/watch?v=PWzbArPgo-o 
+  - Source: Ninja Nerd Science
+  - Highlights: Zoonosis, Mortality Rates, Degree of Spread
+  - Link: https://www.youtube.com/watch?v=PWzbArPgo-o 
 
 ### Allied Health Webinars
 
