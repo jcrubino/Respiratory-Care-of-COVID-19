@@ -41,6 +41,11 @@
   - Highlights: Basic Vent Settings
   - Link: https://www.youtube.com/watch?v=kuTqecGcwTw
   
+- NiV-Helmet
+  - Source: Neurovent Research Inc.
+  - Highlights: NIV Helmet Presentation from 2012
+  - Link: https://www.youtube.com/watch?v=XjKrXG4FwRI
+  
 ### ER Airway Preparedness
 
  - COVID19 (Corona Virus) Intubation Packs and Preoxygenation
