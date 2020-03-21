@@ -26,16 +26,16 @@
   - Link: https://www.youtube.com/watch?v=V-7SQGPkijs
 
 - COVID-19 | Corona Virus: Epidemiology, Pathophysiology, Diagnostics
-  - Source: Ninja Nerd Science
+  - Source: Ninja Nerd Science (Science Video Creator)
   - Highlights: Zoonosis, Mortality Rates, Degree of Spread
   - Link: https://www.youtube.com/watch?v=PWzbArPgo-o
   
 - COVID-19 | Corona Virus: Treatment, Prognosis, Precautions
-  - Source: Ninja Nerd Science
+  - Source: Ninja Nerd Science (Science Video Creator)
   - Link: https://www.youtube.com/watch?v=rdoN_XsHWBI
   
-- 3 COVID-19 Cases As Described By Doctors In China
-  - Source: Chubbyemu
+- COVID-19 Case As Described By Doctors In China
+  - Source: Chubbyemu (Medical Video Content Creator)
   - Highlights: Patient Case Reports
   - Link: youtube.com/watch?v=Q0A0LyMru3I
 
@@ -46,7 +46,7 @@
   - Highlights: Webinar for Respiratory Therapists by Public Health and Pediatric ICU Physician
   - Link: https://www.youtube.com/watch?v=qW4vrz79aFs
   
-### Visual Explainer Videos
+### Genral Audience Visual Explainer Videos
 
 - **COVID-19** a visual summary of the new coronavirus pandemic
   - Source: Armando Hasudungan (Science Illustrator / Animator)
