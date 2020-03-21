@@ -1,3 +1,7 @@
+
+## Note
+*The sources of these videos are not vetted as being the gold standard in medical advice and should only be assessed by and with license practicing physicians and health care providers.  Many are presentations by domain experts and online content creators attempting to provide the best information available at the time the video was made.*
+
 ## YouTube Webinars
 
 ### Primary Source Physician Case Reports
@@ -29,6 +33,11 @@
 - COVID-19 | Corona Virus: Treatment, Prognosis, Precautions
   - Source: Ninja Nerd Science
   - Link: https://www.youtube.com/watch?v=rdoN_XsHWBI
+  
+- 3 COVID-19 Cases As Described By Doctors In China
+  - Source: Chubbyemu
+  - Highlights: Patient Case Reports
+  - Link: youtube.com/watch?v=Q0A0LyMru3I
 
 ### Allied Health Webinars
 
