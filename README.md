@@ -5,12 +5,15 @@
 ## YouTube Webinars
 
 ### Primary Source Physician Case Reports
-- Respiratory Management for Severe COVID-19 Patients Webinar 
+- Respiratory Management for Severe COVID-19 Patients Webinar (Part I)
   - Source: Philips Healthcare
   - Highlights:  Medical Professionals from China and Italy on Respiratory Care of COVID-19 Patients
-  - Links: 
-      - [Part I](https://www.youtube.com/watch?v=rMT97toZNJw)
-      - [QnA Part II](https://www.youtube.com/watch?v=pAb_AC2-g3M)
+  - Links: https://www.youtube.com/watch?v=rMT97toZNJw
+  
+- Respiratory Management for Severe COVID-19 Patients Webinar (Part II)
+  - Source: Philips Healthcare
+  - Highlights: Question and Answer Session
+  - Link: https://www.youtube.com/watch?v=pAb_AC2-g3M
       
 - Chinese frontline respiratory doctor shares COVID-19 experience with overseas medics
   - Source: China Global Television Network
