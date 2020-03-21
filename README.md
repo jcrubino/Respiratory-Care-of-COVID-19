@@ -20,6 +20,11 @@
     
 ### Disease Pathology And Epidemiology
 
+- 2019 Novel Coronavirus (COVID-19): A Primer for Health Care Providers
+  - Source: Icahn School of Medicine
+  - Highlights: Grand Rounds Primer for Health Care Providers
+  - Link: https://www.youtube.com/watch?v=31Ht70R_Gbs
+
 - Coronavirus (COVID-19) Autopsy Report Analysis by Dr. Mike Hansen
   - Source: Doctor Mike Hansen (Certified Internist, Pulmonologist)
   - Highlights: Pathology Case Reports from Current Journal Reports
