@@ -30,7 +30,7 @@
 
 - Coronavirus (COVID-19) Grand Rounds - Stanford Department of Medicine
   - Source: Stanford Department of Medicine Mar 18, 2020
-  - Highlights: Ambulatory Care, Anti-Viral Treatment, Quaruntine Measures
+  - Highlights: Ambulatory Care, Anti-Viral Treatment, Quarantine Measures
   - Link: https://www.youtube.com/watch?v=jS0SoogeuZU
 
 - Coronavirus (COVID-19) Panel Discussion - Stanford Department of Medicine Grand Rounds
