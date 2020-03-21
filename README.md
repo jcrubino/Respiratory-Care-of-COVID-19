@@ -35,9 +35,9 @@
   - Link: https://www.youtube.com/watch?v=zf7jW2ck7AI
   
 - Coronavirus COVID-19
-- Source: Radiopaedia
-- Highlights: Coronavirus COVID-19 Radiographic Cases
-- Link: https://radiopaedia.org/cases/covid-19-pneumonia-15?lang=us
+  - Source: Radiopaedia
+  - Highlights: Coronavirus COVID-19 Radiographic Cases
+  - Link: https://radiopaedia.org/cases/covid-19-pneumonia-15?lang=us
   
 ### NIV Helmet Ventilation
 
