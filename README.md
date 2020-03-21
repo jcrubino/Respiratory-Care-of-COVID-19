@@ -13,7 +13,7 @@
 
 
 ### Points of Practice
-  - Know the false positive rate of the available COVID-19 **and the false negative**
+  - Know the false positive rate of the available COVID-19 test **and the false negative**
 
 ### Front Line Physician Reports (China, Italy)
 - Respiratory Management for Severe COVID-19 Patients Webinar (Part I)
