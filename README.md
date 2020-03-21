@@ -31,3 +31,11 @@
   - Source: American Association of Respiratory Care (AARC)
   - Highlights: Webinar for Respiratory Therapists by Public Health and Pediatric ICU Physician
   - Link: https://www.youtube.com/watch?v=qW4vrz79aFs
+  
+### Visual Explainer Videos
+
+- **COVID-19** a visual summary of the new coronavirus pandemic
+  - Source: Armando Hasudungan (Science Illustrator / Animator)
+  - Highlights: Visual Report of Zoonosis Pandemic Progression
+  - Link: https://www.youtube.com/watch?v=jWMUBouaqb0
+
