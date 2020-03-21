@@ -53,7 +53,7 @@
 
 - How Coronavirus Kills: Acute Respiratory Distress Syndrome (ARDS) & Treatment
   - MedCram - Pulmonologist & Educator Dr. Seheult
-  - Highlights: ARDS Pathology & Ventilation Strategy
+  - Highlights: ARDS Physiology & Ventilation Strategy
   - Link: https://www.youtube.com/watch?v=okg7uq_HrhQ
 
 
