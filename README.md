@@ -7,7 +7,7 @@
 ### Front Line Physician Reports (China, Italy)
 - Respiratory Management for Severe COVID-19 Patients Webinar (Part I)
   - Source: Philips Healthcare
-  - Highlights:  Medical Professionals from China and Italy on Respiratory Care of COVID-19 Patients
+  - Highlights:  Intensive Care Respiratory Care Overview from the Chinese and Italian Front Lines
   - Links: https://www.youtube.com/watch?v=rMT97toZNJw
   
 - Respiratory Management for Severe COVID-19 Patients Webinar (Part II)
