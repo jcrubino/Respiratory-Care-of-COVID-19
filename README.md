@@ -41,6 +41,11 @@
 
 ### Allied Health Webinars
 
+- Coronavirus COVID-19 Symptoms, Causes, Prevention Nursing Review
+  - Source: RegisteredNurseRN.com (NCLEX Study Videos Provider)
+  - Highlights: Nursing Perspective Review
+  - Link: https://www.youtube.com/watch?v=ALRLihS19kQ
+
 - COVID-19 and the RT with Dr. Michael Anderson, MD, MBA, FAAP, FAARC
   - Source: American Association of Respiratory Care (AARC)
   - Highlights: Webinar for Respiratory Therapists by Public Health and Pediatric ICU Physician
