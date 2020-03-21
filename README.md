@@ -56,7 +56,7 @@
   - Highlights: UK Respiratory Physiotherapist Webinar
   - Link: https://www.youtube.com/watch?v=YoAbjLQlDy8
   
-### Genral Audience Visual Explainer Videos
+### General Audience Visual Explainer Videos
 
 - **COVID-19** a visual summary of the new coronavirus pandemic
   - Source: Armando Hasudungan (Science Illustrator / Animator)
