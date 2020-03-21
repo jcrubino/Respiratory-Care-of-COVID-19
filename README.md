@@ -12,6 +12,9 @@
  - [Planning and provision of ECMO services for severe ARDS during the COVID-19 pandemic and other outbreaks of emerging infectious diseases](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30121-1/fulltext)
 
 
+### Points of Practice
+  - Know the false positive rate of the available COVID-19 **and the false negative**
+
 ### Front Line Physician Reports (China, Italy)
 - Respiratory Management for Severe COVID-19 Patients Webinar (Part I)
   - Source: Philips Healthcare
