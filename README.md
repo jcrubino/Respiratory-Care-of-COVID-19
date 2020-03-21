@@ -26,6 +26,13 @@
   - Highlights: Italian Physician Dr. Giovanni Guaraldi Reports on Lessons Learned and Advice for Physicians
   - Links: https://www.youtube.com/watch?v=wohTFdqCurA
   
+### NIV Helmet Ventilation
+
+- Helmet Noninvasive Ventilation
+  - Source: JAMA Network Channel
+  - Highlights: Basic Vent Settings
+  - Link: https://www.youtube.com/watch?v=kuTqecGcwTw
+  
 ### Grand Rounds Presentations (US Medical Schools)
 
 - Coronavirus (COVID-19) Grand Rounds - Stanford Department of Medicine
