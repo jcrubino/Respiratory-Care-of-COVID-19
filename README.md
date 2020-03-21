@@ -50,7 +50,8 @@
   - Source: Dr. Roberta Costa - Catholic Univerity of Rome 2011
   - Highlights: The NIV Helmet is an Italian (re)Invention.  
     - This presentation is an early report on using NIV Helmets for respiratory support
-  - Link: https://www.youtube.com/watch?v=9oXM2qaatoY (Posted on a Russian Youtubers Channel)
+  - Link: https://www.youtube.com/watch?v=9oXM2qaatoY 
+    - (Posted on a Russian Youtubers Channel)
   
 - NiV-Helmet
   - Source: Neurovent Research Inc.
