@@ -25,14 +25,32 @@
   - Source: CTV News (Canada)
   - Highlights: Italian Physician Dr. Giovanni Guaraldi Reports on Lessons Learned and Advice for Physicians
   - Links: https://www.youtube.com/watch?v=wohTFdqCurA
-    
-### Disease Pathology And Epidemiology
+  
+### Grand Rounds Presentations
 
+- Coronavirus (COVID-19) Grand Rounds - Stanford Department of Medicine
+  - Source: Stanford Department of Medicine Mar 18, 2020
+  - Highlights: Ambulatory Care, Anti-Viral Treatment, Quaruntine Measures
+  - Link: https://www.youtube.com/watch?v=jS0SoogeuZU
+
+- Coronavirus (COVID-19) Panel Discussion - Stanford Department of Medicine Grand Rounds
+  - Source: Stanford Department of Medicine Mar 13, 2020
+  - Highlights: Microbiology, Virology, Infectious Disease Clinical, Emergency Medicine, Infection Control
+  - Link: https://www.youtube.com/watch?v=jS0SoogeuZU
+    
 - 2019 Novel Coronavirus (COVID-19): A Primer for Health Care Providers
-  - Source: Icahn School of Medicine
-  - Highlights: Grand Rounds Primer for Health Care Providers
+  - Source: Icahn School of Medicine (Mar 10, 2020)
+  - Highlights: Public Health Perspective
   - Link: https://www.youtube.com/watch?v=31Ht70R_Gbs
   
+- Special Grand Rounds/Town Hall Meeting: COVID-19 Update
+  - Source: Children's National Hospital / George Washington University
+  - Highlights: Initial Clinical Guidelines (March 2, 2020)
+  - Link: https://www.youtube.com/watch?v=El2Pha-k8QU
+
+
+### Disease Pathology And Epidemiology
+
 - Coronavirus Testing #JAMALive
   - Source: JAMA® Network (Public Health and Health Care Edu. Video Channel)
   - Highlights: COVID-19 Testing Explained
