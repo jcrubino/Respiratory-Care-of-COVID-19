@@ -3,7 +3,7 @@
 *Most of Given the nature of the Corona Virus COVID 19 pandemic the sources and resources of these videos are not strictly vetted nor being reccomended as medical advice, or gold standard guidelines.  These resources should only be assessed by and with certified licensed practicing physicians and health care providers.  Primary source (front line physicians and health care professionals) reports and presentations from established medical organizations are provided when possible.  Some presentations are made by online content creators attempting to provide the best quality information available to their own understanding at the time their online their content was published.*
 
 
-### [Official CDC Healthcare Professional GAQ](https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html)
+### [Official CDC Healthcare Professional FAQ](https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html)
 
 ### Front Line Physician Reports (China, Italy)
 - Respiratory Management for Severe COVID-19 Patients Webinar (Part I)
