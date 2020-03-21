@@ -16,6 +16,11 @@
     
 ### Disease Pathology And Epidemiology
 
+- Coronavirus (COVID-19) Autopsy Report Analysis by Dr. Mike Hansen
+  - Source: Doctor Mike Hansen (Certified Internist, Pulmonologist)
+  - Highlights: Pathology Case Reports from Current Journal Reports
+  - Link: https://www.youtube.com/watch?v=V-7SQGPkijs
+
 - COVID-19 | Corona Virus: Epidemiology, Pathophysiology, Diagnostics
   - Source: Ninja Nerd Science
   - Highlights: Zoonosis, Mortality Rates, Degree of Spread
