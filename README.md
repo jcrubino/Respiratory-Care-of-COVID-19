@@ -81,7 +81,7 @@
   - Link: https://www.youtube.com/watch?v=G9oqvJ3iXGI
   
   
-### NIV Helmet Ventilation
+### Non-Invasive Helmet Ventilation
 
 *NIV Helmet Ventilation has been cited as early as 2016 for reducing ARDS intubations. Being an Italian medical (re)Invention is very likely why Italian hostpital footage shows these type of NIV systems on patients in the wards.*
 
