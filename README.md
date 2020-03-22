@@ -214,7 +214,7 @@ There is no known cure nor standard drug choice for Corona Virus.  Treatment is 
  
  - Keeping the Coronavirus from Infecting Health-Care Workers
    - Source: Endocrine and General Seurgeon Atul Gawande of Brigham and Women’s Hospital, in Boston
-   - Highlights: Healthworker PPE, Social Distance Triage in Healthcare Fascilities; N95, Goggles Gowns for Aersol Risks only.
+   - Highlights: Healthworker PPE, Social Distance Triage in Healthcare Fascilities, surface hygeine; N95, Goggles Gowns for Aersol Risks only.
    - Link: https://www.newyorker.com/news/news-desk/keeping-the-coronavirus-from-infecting-health-care-workers
 
 
