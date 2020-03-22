@@ -6,6 +6,7 @@
 ### CDC Guides for HealthCare Professionals
   - [Healthcare Professional COVID-19 FAQ](https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html)
   - [Environmental Infection Control in Health-Care Facilities (2003)](https://www.cdc.gov/infectioncontrol/guidelines/environmental/index.html)
+ 
 
 ### Lancet Journal Updates for Respiratory Medicine and COVID-19
  - [Treatment for severe acute respiratory distress syndrome from COVID-19](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30127-2/fulltext)
@@ -209,7 +210,12 @@ There is no known cure nor standard drug choice for Corona Virus.  Treatment is 
 
 - [Breakout Section on Citrus Flavenoids for further review](https://github.com/jcrubino/Respiratory-Care-of-COVID-19/blob/master/Flavenoid-ACE2-Blocking.md)
 
+ ### Medical Professional Opinion Peices
  
+ - Keeping the Coronavirus from Infecting Health-Care Workers
+   - Source: Endocrine and General Seurgeon Atul Gawande of Brigham and Women’s Hospital, in Boston
+   - Highlights: Healthworker PPE, Social Distance Triage in Healthcare Fascilities; N95, Goggles Gowns for Aersol Risks only.
+   - Link: https://www.newyorker.com/news/news-desk/keeping-the-coronavirus-from-infecting-health-care-workers
 
 
 ### Allied Health Webinars
