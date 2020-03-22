@@ -13,7 +13,9 @@
 
 
 ### Points of Practice
-  - Know the false positive rate of the available COVID-19 test **and the false negative**
+  - Know the false positive rate of the available COVID-19 test **and the false negative** (scuttlebut from England)
+
+  
 
 ### Front Line Physician Reports (China, Italy)
 - Respiratory Management for Severe COVID-19 Patients Webinar (Part I)
@@ -158,13 +160,25 @@
   
 ### Treatment Pharmocology
 
+There is no known cure nor standard drug choice for Corona Virus.  Treatment is supportive care.  Evaluation of all pharmacology related treatments still requires well executed clinical trials at this time.  That said here is some pesentations and research being published on Pharmacological routes to suppress or shorten the course of the viral infection.
+
 - Pharmacology - CORONAVIRUS (MADE EASY)
   - Source: Speed Pharmacology
   - Highlights: Overview of Potential Drug Canidates and Mechanisms of Action.  
-    - Make sure the orange peel is included in your vitamin c. 
-    - Citrus peel flavonoids score high for ACE2 docking scores with cited antiviral activity.
-    - Whole foods you win again.
   - Link: https://www.youtube.com/watch?v=-E_Okc_Fp3w
+  
+- Analysis of therapeutic targets for SARS-CoV-2 and discovery of potential drugs by computational methods
+ - Source: Acta Pharmaceutica Sinica B Pre-proof
+ - Highlights: Computation Study Referenced in video above.
+   - Doxycycline, and Citrus Flavenoids are potential drug canidates based on ACE2 Docking Potential
+   - Citrus Flavenoids have been reported as antivirul and anti lung inflamatory in pre COVID-19 outbreak
+ - Link: https://www.sciencedirect.com/science/article/pii/S2211383520302999?via%3Dihub
+ 
+
+- [Breakout Section on Citrus Flavenoids for further review](https://github.com/jcrubino/Respiratory-Care-of-COVID-19/blob/master/Flavenoid-ACE2-Blocking.md)
+
+ 
+
 
 ### Allied Health Webinars
 
