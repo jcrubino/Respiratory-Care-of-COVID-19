@@ -20,28 +20,28 @@
 ### Front Line Healthcare Worker Accounts (China, Italy)
 - Respiratory Management for Severe COVID-19 Patients Webinar (Part I)
   - Source: Philips Healthcare
-  - Highlights:  Intensive Care Respiratory Care Overview from the Chinese and Italian Front Lines
+  - **Highlights:**  Intensive Care Respiratory Care Overview from the Chinese and Italian Front Lines
   - Links: https://www.youtube.com/watch?v=rMT97toZNJw
   
 - Respiratory Management for Severe COVID-19 Patients Webinar (Part II)
   - Source: Philips Healthcare
-  - Highlights: Question and Answer Session
+  - **Highlights:** Question and Answer Session
   - Link: https://www.youtube.com/watch?v=pAb_AC2-g3M
       
 - Chinese frontline respiratory doctor shares COVID-19 experience with overseas medics
   - Source: China Global Television Network
-  - Highlights:  Dr. Li Shengqing of Fudan Univerity with experience in Wuhan China ICU QnA
+  - **Highlights:**  Dr. Li Shengqing of Fudan Univerity with experience in Wuhan China ICU QnA
   - Keywords: Mechanical Ventilation, ECMO, Face Mask Debate, N95
   - Links: https://www.youtube.com/watch?v=pRSKoROAquY
   
 - Italian Doctor on treating COVID-19 patients
   - Source: CTV News (Canada)
-  - Highlights: Italian Physician Dr. Giovanni Guaraldi Reports on Lessons Learned and Advice for Physicians
+  - **Highlights:** Italian Physician Dr. Giovanni Guaraldi Reports on Lessons Learned and Advice for Physicians
   - Links: https://www.youtube.com/watch?v=wohTFdqCurA
   
 - A Medical Worker Describes Terrifying Lung Failure From COVID-19 — Even in His Young Patients
   - Source: ProPublica
-  - Highlights: Account of disease course in intubated COVID-19 patient
+  - **Highlights:** Account of disease course in intubated COVID-19 patient
   - Link: https://www.propublica.org/article/a-medical-worker-describes--terrifying-lung-failure-from-covid19-even-in-his-young-patients
   
   
