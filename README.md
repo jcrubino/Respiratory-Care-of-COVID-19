@@ -135,7 +135,7 @@
   - Link: https://www.youtube.com/watch?v=vPtH42Lnt_Y
 
 - COVID-19 | Corona Virus: Epidemiology, Pathophysiology, Diagnostics
-  - Source: Ninja Nerd Science (Science Video Creator)
+  - Source: Ninja Nerd Science (Science Video Creator & PA)
   - Highlights: Zoonosis, Mortality Rates, Degree of Spread
   - Link: https://www.youtube.com/watch?v=PWzbArPgo-o
   
