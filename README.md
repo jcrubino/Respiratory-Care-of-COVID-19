@@ -15,8 +15,6 @@
 ### Points of Practice
   - Know the false positive rate of the available COVID-19 test **and the false negative** (scuttlebut from England)
 
-  
-
 ### Front Line Physician Reports (China, Italy)
 - Respiratory Management for Severe COVID-19 Patients Webinar (Part I)
   - Source: Philips Healthcare
@@ -63,6 +61,12 @@
   - Source: China Global Television Network
   - Highlights: Chinese Doctor Describes His Own Course of Living with COVID-19
   - Link: https://www.youtube.com/watch?v=9td3ASzuwsI
+  
+- Living with Coronavirus (COVID-19) Symptoms & Treatments
+  - Source: Audioholics Blog Owner
+  - Highlights: Personal Video Shot by Longtime Blogger who suffered the ill effects of COVID-19
+    - Exercise is Cited Pre-illness (this is an anecdotal observation)
+  - Source: https://www.youtube.com/watch?v=iQ9Su-TO3Sw
   
 ### NIV Helmet Ventilation
 
