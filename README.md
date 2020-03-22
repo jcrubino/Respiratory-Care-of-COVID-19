@@ -65,8 +65,15 @@
 - Living with Coronavirus (COVID-19) Symptoms & Treatments
   - Source: Audioholics Blog Owner
   - Highlights: Personal Video Shot by Longtime Blogger who suffered the ill effects of COVID-19
-    - Exercise is Cited Pre-illness (this is an anecdotal observation)
+    - Exercise is Cited Pre-illness (Anecdotal Observation)
   - Source: https://www.youtube.com/watch?v=iQ9Su-TO3Sw
+  
+- U.S. survivors of COVID-19 recount their ordeal
+  - Source: Chinese Global Television USA Network Channel
+  - Highlights: US COVID 19 Survivors who were in Wuhan
+    - Exhaustion (Time change in travel Wuhan to Chicago) Citied in Course of Patients Illness (Anecdotal Observation)
+  - Link: https://www.youtube.com/watch?v=AjzW9i-cgkA
+  
   
 ### NIV Helmet Ventilation
 
@@ -135,7 +142,6 @@
   - MedCram - Pulmonologist & Educator Dr. Seheult
   - Highlights: ARDS Physiology & Ventilation Strategy
   - Link: https://www.youtube.com/watch?v=okg7uq_HrhQ
-
 
 - Coronavirus Testing #JAMALive
   - Source: JAMA® Network (Public Health and Health Care Edu. Video Channel)
