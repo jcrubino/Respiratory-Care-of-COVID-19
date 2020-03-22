@@ -154,6 +154,14 @@
   - Source: Chubbyemu (Medical Video Content Creator)
   - Highlights: Patient Case Report
   - Link: youtube.com/watch?v=Q0A0LyMru3I
+  
+  
+### Treatment Pharmocology
+
+- Pharmacology - CORONAVIRUS (MADE EASY)
+  - Source: Speed Pharmacology
+  - Highlights: Overview of Potential Drug Canidates and Mechanisms of Action
+  - Link: https://www.youtube.com/watch?v=-E_Okc_Fp3w
 
 ### Allied Health Webinars
 
