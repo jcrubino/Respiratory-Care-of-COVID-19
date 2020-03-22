@@ -160,7 +160,9 @@
 
 - Pharmacology - CORONAVIRUS (MADE EASY)
   - Source: Speed Pharmacology
-  - Highlights: Overview of Potential Drug Canidates and Mechanisms of Action
+  - Highlights: Overview of Potential Drug Canidates and Mechanisms of Action.  
+    - Make sure the orange peel is included in your vitamin c. 
+    - Citrus peel flavonoids score high for ACE2 docking scores and antiviral activity.    
   - Link: https://www.youtube.com/watch?v=-E_Okc_Fp3w
 
 ### Allied Health Webinars
