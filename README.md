@@ -50,6 +50,13 @@
   - Highlights: Coronavirus COVID-19 Radiographic Cases
   - Link: https://radiopaedia.org/cases/covid-19-pneumonia-15?lang=us
   
+### First Hand Patient Reports on the Illness
+
+- Coronavirus patients describe symptoms, battle for recovery
+  - Source: CBS This Morning
+  - Highlights: Patients from Washington State
+  - Link: https://www.youtube.com/watch?v=Wak8UQebNDs
+  
 ### NIV Helmet Ventilation
 
 *NIV Helmet Ventilation has been cited as early as 2016 for reducing ARDS intubations. Being an Italian medical (re)Invention is very likely why Italian hostpital footage shows these type of NIV systems on patients in the wards.*
