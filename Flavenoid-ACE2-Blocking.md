@@ -4,6 +4,8 @@ Not all sources provided below are considered reliable as a Medical resource.
 Angiotensin Enzyme 2 Blocking *may or may not be* an effective route for the supportive immune care to COVID-19.
 Because many Citrus flavenoids are widely available with high ACE2 blocking activity this section was created for further review.
 
+**Conflict of Interest Disclosure** I grow citrus trees in Wisconsin.
+
 - Inhibition of Angiotensin-Converting Enzyme Activity by Flavonoids: Structure-Activity Relationship Studies
  - Source: PLoS One. 2012; 7(11): e49493.
  - Highlights: A Look Into Natural Compounds for ACE2 Blocking, which may or may not be effective against COVID-19
