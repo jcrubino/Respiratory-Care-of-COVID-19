@@ -14,7 +14,7 @@
 
 ### Scuttlebut Points of Practice
   - Know the false positive rate of the available COVID-19 test **and the false negative**.
-  - Know the Time for Viral Infection lead to a postive test.
+  - Know the Time for Viral Infection Replication to lead to a Postive Test.
 
 ### Front Line Physician Reports (China, Italy)
 - Respiratory Management for Severe COVID-19 Patients Webinar (Part I)
