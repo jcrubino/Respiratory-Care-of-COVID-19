@@ -17,7 +17,7 @@
   - Know the false positive rate of the available COVID-19 test **and the false negative**.
   - Know the Time for Viral Infection Replication to lead to a Postive Test.
 
-### Front Line Physician Reports (China, Italy)
+### Front Line Healthcare Worker Accounts (China, Italy)
 - Respiratory Management for Severe COVID-19 Patients Webinar (Part I)
   - Source: Philips Healthcare
   - Highlights:  Intensive Care Respiratory Care Overview from the Chinese and Italian Front Lines
@@ -38,6 +38,11 @@
   - Source: CTV News (Canada)
   - Highlights: Italian Physician Dr. Giovanni Guaraldi Reports on Lessons Learned and Advice for Physicians
   - Links: https://www.youtube.com/watch?v=wohTFdqCurA
+  
+- A Medical Worker Describes Terrifying Lung Failure From COVID-19 — Even in His Young Patients
+  - Source: ProPublica
+  - Highlights: Account of disease course in intubated COVID-19 patient
+  - Link: https://www.propublica.org/article/a-medical-worker-describes--terrifying-lung-failure-from-covid19-even-in-his-young-patients
   
   
 ### Medical Screening
