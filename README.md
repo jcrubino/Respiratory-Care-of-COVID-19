@@ -74,6 +74,11 @@
     - Exhaustion (Time change in travel Wuhan to Chicago) Citied in Course of Patients Illness (Anecdotal Observation)
   - Link: https://www.youtube.com/watch?v=AjzW9i-cgkA
   
+- Coronavirus survivor reveals what it's like to have Covid-19
+  - Source: Channel 4 (UK)
+  - Highlights: British man in Wuhan Describes his bout with COVID-19
+  - Link: https://www.youtube.com/watch?v=G9oqvJ3iXGI
+  
   
 ### NIV Helmet Ventilation
 
@@ -176,6 +181,12 @@
 ### Treatment Pharmocology
 
 There is no known cure nor standard drug choice for Corona Virus.  Treatment is supportive care.  Evaluation of all pharmacology related treatments still requires well executed clinical trials at this time.  That said here is some pesentations and research being published on Pharmacological routes to suppress or shorten the course of the viral infection.
+
+
+- MedCram: Rapid COVID-19 Spread with Mild or No Symptoms, More on Treatment
+  - Source: MedCram
+  - Highlights: Pharmacology Action and Potential Treatment Chloreqiun, Zinc
+  - Link: https://www.youtube.com/watch?v=AToF8O5T86s
 
 - Pharmacology - CORONAVIRUS (MADE EASY)
   - Source: Speed Pharmacology
