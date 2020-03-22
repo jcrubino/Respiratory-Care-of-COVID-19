@@ -80,6 +80,11 @@
   - Highlights: British man in Wuhan Describes his bout with COVID-19
   - Link: https://www.youtube.com/watch?v=G9oqvJ3iXGI
   
+- 'A slow burn': Coronavirus symptoms often linger before worsening
+  - source: NBC News
+  - Highlights: Patients Often Report Feeling Better Before Worsening Enough to be Admitted into Healthcare System.
+  - link: https://www.nbcnews.com/health/health-news/slow-burn-coronavirus-symptoms-often-linger-worsening-n1164756
+  
   
 ### Non-Invasive Helmet Ventilation
 
