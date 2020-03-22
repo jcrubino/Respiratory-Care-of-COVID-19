@@ -135,12 +135,12 @@
   - Link: https://www.youtube.com/watch?v=vPtH42Lnt_Y
 
 - COVID-19 | Corona Virus: Epidemiology, Pathophysiology, Diagnostics
-  - Source: Ninja Nerd Science (Science Video Creator & PA)
+  - Source: Ninja Nerd Science (Science Video Creator amd Phys. Asst. Zachary Murphy)
   - Highlights: Zoonosis, Mortality Rates, Degree of Spread
   - Link: https://www.youtube.com/watch?v=PWzbArPgo-o
   
 - COVID-19 | Corona Virus: Treatment, Prognosis, Precautions
-  - Source: Ninja Nerd Science (Science Video Creator)
+  - Source: Ninja Nerd Science (Science Video Creator amd Phys. Asst. Zachary Murphy)
   - Link: https://www.youtube.com/watch?v=rdoN_XsHWBI
   
 - COVID-19 Case As Described By Doctors In China
