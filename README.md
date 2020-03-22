@@ -162,7 +162,8 @@
   - Source: Speed Pharmacology
   - Highlights: Overview of Potential Drug Canidates and Mechanisms of Action.  
     - Make sure the orange peel is included in your vitamin c. 
-    - Citrus peel flavonoids score high for ACE2 docking scores and antiviral activity.    
+    - Citrus peel flavonoids score high for ACE2 docking scores with cited antiviral activity.
+    - Whole foods you win again.
   - Link: https://www.youtube.com/watch?v=-E_Okc_Fp3w
 
 ### Allied Health Webinars
