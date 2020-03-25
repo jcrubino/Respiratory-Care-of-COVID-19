@@ -10,6 +10,7 @@
 
 ### Lancet Journal Updates for Respiratory Medicine and COVID-19
  - [Treatment for severe acute respiratory distress syndrome from COVID-19](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30127-2/fulltext)
+ - [Respiratory support for patients with COVID-19 infection](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30110-7/fulltext)
  - [Planning and provision of ECMO services for severe ARDS during the COVID-19 pandemic and other outbreaks of emerging infectious diseases](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30121-1/fulltext)
 
 
