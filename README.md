@@ -217,7 +217,7 @@ There is no known cure nor standard drug choice for Corona Virus.  Treatment is 
   
 - ACE inhibitors and angiotensin receptor blockers may increase the risk of severe COVID-19, paper suggests
   - Source: Science Daily
-  - Highlights: ACE Inhibitors have been shown to increase ACE-2 sites in exeprimental models, possibly explaining a increased morbidity in Angiotensin-converting enzyme inhibitors (ACEIs) and angiotensin receptor blockers increaseing attack vector for virus
+  - Highlights: Angiotensin Inhibitors and Blockers have been shown to increase ACE-2 sites in exeprimental models.  It is theorized this creates a larger or continued attack surface area for the virus. This may explain an increased morbidity in patients using Angiotensin-converting enzyme inhibitors and angiotensin receptor blockers.
   - Link: https://www.sciencedaily.com/releases/2020/03/200323101354.htm
  
 
