@@ -52,10 +52,6 @@
   
 ### Medical Screening
 
-##### Points of Practice
-  - Know the false positive rate of the available COVID-19 test **and the false negative**.
-  - Know the Time for COVID-19 Viral Incubation to lead to a Postive Test.
-
 - Learning about INVESTIGATIONS from Respiratory Consultant
   - Source: Dr Hope's Sick Notes (Emergency Medicine Doctor and Teaching Fellow in the UK)
   - Highlights: General Medical History Intake by Dr. (not) waiting for the UK COVID-19 Wave to Peak.
@@ -65,7 +61,11 @@
   - Source: Radiopaedia
   - Highlights: Coronavirus COVID-19 Radiographic Cases
   - Link: https://radiopaedia.org/cases/covid-19-pneumonia-15?lang=us
-  
+
+- Points of Practice
+  - Know the false positive rate of the available COVID-19 test **and the false negative**.
+  - Know the Time for COVID-19 Viral Incubation to lead to a Postive Test.
+
 ### First Hand Patient Reports on the Illness
 
 - Coronavirus patients describe symptoms, battle for recovery
