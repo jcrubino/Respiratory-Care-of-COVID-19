@@ -219,14 +219,14 @@ There is no known cure nor standard drug choice for Corona Virus.  Treatment is 
   - Link: https://www.sciencedirect.com/science/article/pii/S2211383520302999?via%3Dihub
   
 - Treatments for COVID-19: Drugs being tested against the coronavirus
- - Source: Live Science
- - Highlights: Overview of Drugs in Testing
- - Link: https://www.livescience.com/coronavirus-covid-19-treatments.html
+  - Source: Live Science
+  - Highlights: Overview of Drugs in Testing
+  - Link: https://www.livescience.com/coronavirus-covid-19-treatments.html
  
 - WHO launches global megatrial of the four most promising coronavirus treatments
- - Source: Science Mag
- - Highlights: Report on World Health Organization Drug Treatments Clinical Trials
- - Link: https://www.sciencemag.org/news/2020/03/who-launches-global-megatrial-four-most-promising-coronavirus-treatments
+  - Source: Science Mag
+  - Highlights: Report on World Health Organization Drug Treatments Clinical Trials
+  - Link: https://www.sciencemag.org/news/2020/03/who-launches-global-megatrial-four-most-promising-coronavirus-treatments
 
 - [The Angeotensin Pharmacology Debate](https://github.com/jcrubino/Respiratory-Care-of-COVID-19/blob/master/ACE-Inhibitors-Blocking.md)
 
