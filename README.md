@@ -214,6 +214,11 @@ There is no known cure nor standard drug choice for Corona Virus.  Treatment is 
     - Doxycycline, and Citrus Flavenoids are potential drug canidates based on ACE2 Docking Potential
     - Citrus Flavenoids have been reported as antivirul and anti lung inflamatory in pre COVID-19 outbreak
   - Link: https://www.sciencedirect.com/science/article/pii/S2211383520302999?via%3Dihub
+  
+- ACE inhibitors and angiotensin receptor blockers may increase the risk of severe COVID-19, paper suggests
+  - Source: Science Daily
+  - Highlights: ACE Inhibitors have been shown to increase ACE-2 sites in exeprimental models, possibly explaining a increased morbidity in Angiotensin-converting enzyme inhibitors (ACEIs) and angiotensin receptor blockers increaseing attack vector for virus
+  - Link: https://www.sciencedaily.com/releases/2020/03/200323101354.htm
  
 
 - [Breakout Section on Citrus Flavenoids for further review](https://github.com/jcrubino/Respiratory-Care-of-COVID-19/blob/master/Flavenoid-ACE2-Blocking.md)
