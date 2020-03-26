@@ -222,10 +222,9 @@ There is no known cure nor standard drug choice for Corona Virus.  Treatment is 
  
 - Coronavirus Pandemic Update 37: The ACE-2 Receptor - The Doorway to COVID-19 (ACE Inhibitors & ARBs)
   - Source: MedCram
-  - Highlights: In Depth Discussion around the Angeotensin Pharmacology and Treatment of COVID-19 Debate.
+  - Highlights: In Depth Discussion around the Angeotensin Pharmacology, Physiology and Treatment of COVID-19 Debate.
   - Link: https://www.youtube.com/watch?v=1vZDVbqRhyM&feature=youtu.be
 
-- [Breakout Section on Citrus Flavenoids for further review](https://github.com/jcrubino/Respiratory-Care-of-COVID-19/blob/master/Flavenoid-ACE2-Blocking.md)
 
  ### Medical Professional Opinion Peices
  
