@@ -231,8 +231,8 @@ There is no known cure nor standard drug choice for Corona Virus.  Treatment is 
 - Analysis of therapeutic targets for SARS-CoV-2 and discovery of potential drugs by computational methods
   - Source: Acta Pharmaceutica Sinica B Pre-proof
   - Highlights: Computation Study Referenced in video above.
-    - Doxycycline, and Citrus Flavenoids are potential drug canidates based on ACE2 Docking Potential
-    - Citrus Flavenoids have been reported as antivirul and anti lung inflamatory in pre COVID-19 outbreak
+    - Existing Approved and Natural Compounds Survey Using Molecular Computational Modeling
+    - ACE2 and Receptor Binding Domain Specfic Compounds
   - Link: https://www.sciencedirect.com/science/article/pii/S2211383520302999?via%3Dihub
   
 - Treatments for COVID-19: Drugs being tested against the coronavirus
