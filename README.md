@@ -220,6 +220,10 @@ There is no known cure nor standard drug choice for Corona Virus.  Treatment is 
   - Highlights: Angiotensin Inhibitors and Blockers have been shown to increase ACE-2 sites in exeprimental models.  It is theorized this creates a larger or continued attack surface area for the virus. This may explain an increased morbidity in patients using Angiotensin-converting enzyme inhibitors and angiotensin receptor blockers.
   - Link: https://www.sciencedaily.com/releases/2020/03/200323101354.htm
  
+- Coronavirus Pandemic Update 37: The ACE-2 Receptor - The Doorway to COVID-19 (ACE Inhibitors & ARBs)
+ - Source: MedCram
+ - Highlights: In Depth Discussion around the Angeotensin Pharmacology and Treatment of COVID-19 Debate.
+ - Link: https://www.youtube.com/watch?v=1vZDVbqRhyM&feature=youtu.be
 
 - [Breakout Section on Citrus Flavenoids for further review](https://github.com/jcrubino/Respiratory-Care-of-COVID-19/blob/master/Flavenoid-ACE2-Blocking.md)
 
