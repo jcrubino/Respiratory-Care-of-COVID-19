@@ -20,9 +20,7 @@
 ### [Angeotensin Pharmacology Debate](https://github.com/jcrubino/Respiratory-Care-of-COVID-19/blob/master/ACE-Inhibitors-Blocking.md)
 
 
-### Scuttlebut Points of Practice
-  - Know the false positive rate of the available COVID-19 test **and the false negative**.
-  - Know the Time for COVID-19 Viral Incubation to lead to a Postive Test.
+
 
 ### Front Line Healthcare Worker Accounts (China, Italy)
 - Respiratory Management for Severe COVID-19 Patients Webinar (Part I)
@@ -53,6 +51,10 @@
   
   
 ### Medical Screening
+
+##### Points of Practice
+  - Know the false positive rate of the available COVID-19 test **and the false negative**.
+  - Know the Time for COVID-19 Viral Incubation to lead to a Postive Test.
 
 - Learning about INVESTIGATIONS from Respiratory Consultant
   - Source: Dr Hope's Sick Notes (Emergency Medicine Doctor and Teaching Fellow in the UK)
