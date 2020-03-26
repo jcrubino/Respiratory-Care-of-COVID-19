@@ -8,6 +8,18 @@
   - [Interim Clinical Guidance for Management of Patients with Confirmed Coronavirus Disease (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html)  
   - [Environmental Infection Control in Health-Care Facilities (2003)](https://www.cdc.gov/infectioncontrol/guidelines/environmental/index.html)
   
+### Postcasts
+
+- [Dr Anthony Fauci: What Clinicians Need to Know About Coronavirus CME)](https://edhub.ama-assn.org/jn-learning/audio-player/18204100)
+  - Source: AMA
+- [Audio Interview: New Research on Possible Treatments for Covid-19](https://www.nejm.org/doi/full/10.1056/NEJMe2005759)
+  - Source: New England Journal of Medicine
+- [Voices from the coronavirus pandemic in Italy New York & the high seas](https://soundcloud.com/readout-loud/episode-102-voices-from-the-coronavirus-pandemic-in-italy-new-york-and-the-high-seas_)
+  - Source: Stat News on Sound Cloud
+- [Coronavirus Daily](https://www.npr.org/podcasts/510355/coronavirusdaily)
+  - Source: National Public Radio
+- [Coronavirus Daily Update](https://www.bbc.co.uk/programmes/w13xtv39)
+  - Source: British Broadcasting Channel
 
 ### Lancet Journal Updates for Respiratory Medicine and COVID-19
  - [Treatment for severe acute respiratory distress syndrome from COVID-19](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30127-2/fulltext)
