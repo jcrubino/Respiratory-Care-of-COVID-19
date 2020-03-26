@@ -16,6 +16,8 @@
   - Source: New England Journal of Medicine
 - [Voices from the coronavirus pandemic in Italy New York & the high seas](https://soundcloud.com/readout-loud/episode-102-voices-from-the-coronavirus-pandemic-in-italy-new-york-and-the-high-seas_)
   - Source: Stat News on Sound Cloud
+- [The Women: Fighting Covid-19](https://www.iheart.com/podcast/1119-the-women-52210366/?keyid=The%20Women&pname=podcast_profile&sc=widget_share)
+  - Source: IHeart Radio
 - [Coronavirus Daily](https://www.npr.org/podcasts/510355/coronavirusdaily)
   - Source: National Public Radio
 - [Coronavirus Daily Update](https://www.bbc.co.uk/programmes/w13xtv39)
