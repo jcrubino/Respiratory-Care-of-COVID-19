@@ -16,6 +16,9 @@
  - [Respiratory support for patients with COVID-19 infection](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30110-7/fulltext)
 
 
+### [Angeotensin Pharmacology Debate](https://github.com/jcrubino/Respiratory-Care-of-COVID-19/blob/master/ACE-Inhibitors-Blocking.md)
+
+
 ### Scuttlebut Points of Practice
   - Know the false positive rate of the available COVID-19 test **and the false negative**.
   - Know the Time for COVID-19 Viral Incubation to lead to a Postive Test.
@@ -215,15 +218,17 @@ There is no known cure nor standard drug choice for Corona Virus.  Treatment is 
     - Citrus Flavenoids have been reported as antivirul and anti lung inflamatory in pre COVID-19 outbreak
   - Link: https://www.sciencedirect.com/science/article/pii/S2211383520302999?via%3Dihub
   
-- ACE inhibitors and angiotensin receptor blockers may increase the risk of severe COVID-19, paper suggests
-  - Source: Science Daily
-  - Highlights: Angiotensin Inhibitors and Blockers have been shown to increase ACE-2 sites in exeprimental models.  It is theorized this creates a larger or continued attack surface area for the virus. This may explain an increased morbidity in patients using Angiotensin-converting enzyme inhibitors and angiotensin receptor blockers.
-  - Link: https://www.sciencedaily.com/releases/2020/03/200323101354.htm
+- Treatments for COVID-19: Drugs being tested against the coronavirus
+ - Source: Live Science
+ - Highlights: Overview of Drugs in Testing
+ - Link: https://www.livescience.com/coronavirus-covid-19-treatments.html
  
-- Coronavirus Pandemic Update 37: The ACE-2 Receptor - The Doorway to COVID-19 (ACE Inhibitors & ARBs)
-  - Source: MedCram
-  - Highlights: In Depth Discussion around the Angeotensin Pharmacology, Physiology and Treatment of COVID-19 Debate.
-  - Link: https://www.youtube.com/watch?v=1vZDVbqRhyM&feature=youtu.be
+- WHO launches global megatrial of the four most promising coronavirus treatments
+ - Source: Science Mag
+ - Highlights: Report on World Health Organization Drug Treatments Clinical Trials
+ - Link: https://www.sciencemag.org/news/2020/03/who-launches-global-megatrial-four-most-promising-coronavirus-treatments
+
+- [The Angeotensin Pharmacology Debate](https://github.com/jcrubino/Respiratory-Care-of-COVID-19/blob/master/ACE-Inhibitors-Blocking.md)
 
 
  ### Medical Professional Opinion Peices
