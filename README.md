@@ -10,7 +10,7 @@
   
   
 ### [Oakes Resiratory COVID-19 Outline](https://www.oakesacademy.com/public/Coronavirus-Clinical-Collaboration.cfm)
-  - RRT Dana Oakes is the Author of [Respiratory Pocket Guides](https://www.amazon.com/s?i=stripbooks&rh=p_27%3ADana+Oakes&s=relevancerank&text=Dana+Oakes&ref=dp_byline_sr_book_1)
+  - Dana Oakes RRT-NPS is the Author of the Highly Regarded [Respiratory Pocket Guides](https://www.amazon.com/s?i=stripbooks&rh=p_27%3ADana+Oakes&s=relevancerank&text=Dana+Oakes&ref=dp_byline_sr_book_1) 35 years in print.
   
   
   
