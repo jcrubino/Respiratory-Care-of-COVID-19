@@ -8,7 +8,13 @@
   - [Interim Clinical Guidance for Management of Patients with Confirmed Coronavirus Disease (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html)  
   - [Environmental Infection Control in Health-Care Facilities (2003)](https://www.cdc.gov/infectioncontrol/guidelines/environmental/index.html)
   
-### Postcasts
+  
+### [Oakes Resiratory COVID-19 Outline](https://www.oakesacademy.com/public/Coronavirus-Clinical-Collaboration.cfm)
+  - RRT Dana Oakes is the Author of [Respiratory Pocket Guides](https://www.amazon.com/s?i=stripbooks&rh=p_27%3ADana+Oakes&s=relevancerank&text=Dana+Oakes&ref=dp_byline_sr_book_1)
+  
+  
+  
+### Podcasts
 
 - [Dr Anthony Fauci: What Clinicians Need to Know About Coronavirus CME)](https://edhub.ama-assn.org/jn-learning/audio-player/18204100)
   - Source: AMA
