@@ -6,7 +6,10 @@ The role of the Angeotensin Converting Enzyme 2 has been shown to be the primary
 Because of the importance of ACE Inhibitors and Blockers in the modern medicine formulary, this section is a list of links to current opinions and data
 regarding the treatment of patients already using ACE inhibitors and blockers.
 
-
+- Renin–Angiotensin–Aldosterone System Inhibitors in Patients with Covid-19
+  - Highlights: Evidence ACEi and ARB's will improve outcomes in hypertensive patients, upregulation of ACE2 *might* be helpful to covid patients where the enzyme is downregulated via viral occupation.   Insufficient human data to make conclusions against use of ACEi and ARBs.
+  - source: New England Journal of Medicine March 30, 2020
+  - links: https://www.nejm.org/doi/full/10.1056/NEJMsr2005760
 
 - ACE inhibitors and angiotensin receptor blockers may increase the risk of severe COVID-19, paper suggests
   - Source: Science Daily
