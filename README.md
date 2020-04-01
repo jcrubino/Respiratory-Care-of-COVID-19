@@ -129,6 +129,9 @@
   - Source: JAMA. 2016 Jun 14; 315(22): 2435–2441.
   - Highlight: Randomized Trial
   - Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4967560/
+  - Recent News Story On Manufacturer used in Above Study
+      - Source: NBC News
+      - Link: https://www.nbcnews.com/news/us-news/texas-mom-pop-business-flooded-orders-helmet-ventilators-amid-coronavirus-n1173466
   
 - Clinical review: Helmet and Non-Invasive Mechanical Ventilation in Critically Ill Patients
   - Source: Biomed Central (Open Access Medical Journal)
