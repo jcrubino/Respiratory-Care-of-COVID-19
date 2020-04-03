@@ -25,3 +25,8 @@ regarding the treatment of patients already using ACE inhibitors and blockers.
   - Source: European Heart Journal
   - Highlight: Withdrawal of RAAS inhibition or preemptive switch to alternate drugs at this point seems not advisable, since it might even increase cardiovascular mortality in critically ill COVID-19 patients.
   - Link: https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehaa235/5810479
+  
+- Blood Pressure Meds Point the Way to Possible COVID-19 Treatment
+  - Source: [Ashley Yaeger - The Scientist ](https://www.the-scientist.com/author/ashley-yeager-44)
+  - Link: https://www.the-scientist.com/news-opinion/blood-pressure-meds-point-the-way-to-possible-covid-19-treatment-67371
+  - Highlight: Free Serum ACE2 treatment entering clinical trials.  Highlighted treatment provides the body non cellular ACE2 as decoy for COVID.
