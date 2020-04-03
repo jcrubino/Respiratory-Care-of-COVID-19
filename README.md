@@ -12,7 +12,9 @@
 ### [Oakes Resiratory COVID-19 Outline](https://www.oakesacademy.com/public/Coronavirus-Clinical-Collaboration.cfm)
   - Dana Oakes RRT-NPS is the Author of the Highly Regarded [Respiratory Pocket Guides](https://www.amazon.com/s?i=stripbooks&rh=p_27%3ADana+Oakes&s=relevancerank&text=Dana+Oakes&ref=dp_byline_sr_book_1) 35 years in print.
   
-  
+### [ZHEJIANG Handbook of COVID-19 Prevention and Treatment](https://video-intl.alicdn.com/Handbook%20of%20COVID-19%20Prevention%20and%20Treatment.pdf?spm=a3c0i.14138300.8102420620.download.5da1647fUkZuXY&file=Handbook%20of%20COVID-19%20Prevention%20and%20Treatment.pdf)
+  - src: ZHEJIANG University School of Medicine
+
   
 ### Podcasts
 
