@@ -8,6 +8,8 @@
   - [Interim Clinical Guidance for Management of Patients with Confirmed Coronavirus Disease (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html)  
   - [Environmental Infection Control in Health-Care Facilities (2003)](https://www.cdc.gov/infectioncontrol/guidelines/environmental/index.html)
   
+### [Respiratory Support for Adult Patients with COVID‐19](https://onlinelibrary.wiley.com/doi/pdf/10.1002/emp2.12071)
+  - Src: Journal of the American College of Emergency Physicians
   
 ### [Oakes Resiratory COVID-19 Outline](https://www.oakesacademy.com/public/Coronavirus-Clinical-Collaboration.cfm)
   - Dana Oakes RRT-NPS is the Author of the Highly Regarded [Respiratory Pocket Guides](https://www.amazon.com/s?i=stripbooks&rh=p_27%3ADana+Oakes&s=relevancerank&text=Dana+Oakes&ref=dp_byline_sr_book_1) 35 years in print.
